@@ -14,8 +14,6 @@ If you would like to contribute by helping integrate Rocket Pool into more servi
 | --------- | -------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | Mainnet   | Deposit  | [0xDD3f50F8A6CafbE9b31a427582963f465E745AF8](https://etherscan.io/address/0xDD3f50F8A6CafbE9b31a427582963f465E745AF8)         |
 | &nbsp;    | Storage  | [0x1d8f8f00cfa6758d7bE78336684788Fb0ee0Fa46](https://etherscan.io/address/0x1d8f8f00cfa6758d7bE78336684788Fb0ee0Fa46)         |
-| Goerli\*  | Deposit  | [0xa9A6A14A3643690D0286574976F45abBDAD8f505](https://goerli.etherscan.io/address/0xa9A6A14A3643690D0286574976F45abBDAD8f505)  |
-| &nbsp;    | Storage  | [0xd8Cd47263414aFEca62d6e2a3917d6600abDceB3](https://goerli.etherscan.io/address/0xd8Cd47263414aFEca62d6e2a3917d6600abDceB3)  |
 | Holesky\* | Deposit  | [0x320f3aAB9405e38b955178BBe75c477dECBA0C27](https://holesky.etherscan.io/address/0x320f3aAB9405e38b955178BBe75c477dECBA0C27) |
 | &nbsp;    | Storage  | [0x594Fb75D3dc2DFa0150Ad03F99F97817747dd4E1](https://holesky.etherscan.io/address/0x594Fb75D3dc2DFa0150Ad03F99F97817747dd4E1) |
 
@@ -40,12 +38,8 @@ See [All Active Deployed Protocol Contracts](#all-active-deployed-protocol-contr
 | &nbsp;            | rETH  | [0x0266F4F08D82372CF0FcbCCc0Ff74309089c74d1](https://polygonscan.com/token/0x0266F4F08D82372CF0FcbCCc0Ff74309089c74d1)                                              |
 | Polygon (zkEVM)   | RPL   | [0x70d35152fBf63FB312709b11a9Bac87519de0019](https://zkevm.polygonscan.com/address/0x70d35152fBf63FB312709b11a9Bac87519de0019)                                      |
 | &nbsp;            | rETH  | [0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942](https://zkevm.polygonscan.com/address/0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942)                                      |
-| Goerli\*          | RPL   | [0x5e932688e81a182e3de211db6544f98b8e4f89c7](https://goerli.etherscan.io/address/0x5e932688e81a182e3de211db6544f98b8e4f89c7)                                        |
-| &nbsp;            | rETH  | [0x178E141a0E3b34152f73Ff610437A7bf9B83267A](https://goerli.etherscan.io/address/0x178E141a0E3b34152f73Ff610437A7bf9B83267A)                                        |
 | Holesky\*         | RPL   | [0x1cc9cf5586522c6f483e84a19c3c2b0b6d027bf0](https://holesky.etherscan.io/address/0x1cc9cf5586522c6f483e84a19c3c2b0b6d027bf0)                                       |
 | &nbsp;            | rETH  | [0x7322c24752f79c05ffd1e2a6fcb97020c1c264f1](https://holesky.etherscan.io/address/0x7322c24752f79c05ffd1e2a6fcb97020c1c264f1)                                       |
-| Optimism Goerli\* | RPL   | [0xa00E3A3511aAC35cA78530c85007AFCd31753819](https://goerli-optimism.etherscan.io/address/0xa00E3A3511aAC35cA78530c85007AFCd31753819)                               |
-| &nbsp;            | rETH  | [0x1010824414d822cd2167f9ad73a2a99bd2e0e4ae](https://goerli-optimism.etherscan.io/address/0x1010824414d822cd2167f9ad73a2a99bd2e0e4ae)                               |
 | Base              | RPL   | [0x1f73EAf55d696BFFA9b0EA16fa987B93b0f4d302](https://basescan.org/address/0x1f73EAf55d696BFFA9b0EA16fa987B93b0f4d302)                                               |
 | &nbsp;            | rETH  | [0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c](https://basescan.org/address/0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c)                                               |
 | Scroll            | rETH  | [0x53878B874283351D26d206FA512aEcE1Bef6C0dD](https://scrollscan.com/address/0x53878b874283351d26d206fa512aece1bef6c0dd)                                             |
@@ -57,12 +51,9 @@ See [All Active Deployed Protocol Contracts](#all-active-deployed-protocol-contr
 
 | Chain     | RP Version      | Address                                                                                                                       |
 | --------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Mainnet   | v1.2 (Atlas)    | [0xDD3f50F8A6CafbE9b31a427582963f465E745AF8](https://etherscan.io/address/0xDD3f50F8A6CafbE9b31a427582963f465E745AF8)         |
+| Mainnet   | v1.2 (Atlas)    | [0xDD3f50F8A6CafbE9b31a427582963f465E745AF8](https://e`therscan.io/address/0xDD3f50F8A6CafbE9b31a427582963f465E745AF8)         |
 | &nbsp;    | v1.1 (Redstone) | [0x2cac916b2A963Bf162f076C0a8a4a8200BCFBfb4](https://etherscan.io/address/0x2cac916b2A963Bf162f076C0a8a4a8200BCFBfb4)         |
 | &nbsp;    | v1.0            | [0x4D05E3d48a938db4b7a9A59A802D5b45011BDe58](https://etherscan.io/address/0x4D05E3d48a938db4b7a9A59A802D5b45011BDe58)         |
-| Goerli\*  | v1.2 (Atlas)    | [0xa9A6A14A3643690D0286574976F45abBDAD8f505](https://goerli.etherscan.io/address/0xa9A6A14A3643690D0286574976F45abBDAD8f505)  |
-| &nbsp;    | v1.1 (Redstone) | [0x2cac916b2A963Bf162f076C0a8a4a8200BCFBfb4](https://goerli.etherscan.io/address/0x2cac916b2A963Bf162f076C0a8a4a8200BCFBfb4)  |
-| &nbsp;    | v1.0            | [0x923Ed282Cda8952910B71B5efcA7CDa09e39c633](https://goerli.etherscan.io/address/0x923Ed282Cda8952910B71B5efcA7CDa09e39c633)  |
 | Holesky\* | v1.2 (Atlas)    | [0x320f3aab9405e38b955178bbe75c477decba0c27](https://holesky.etherscan.io/address/0x320f3aab9405e38b955178bbe75c477decba0c27) |
 
 <small>\* Testnet</small>
@@ -195,11 +186,12 @@ See [All Active Deployed Protocol Contracts](#all-active-deployed-protocol-contr
 | &nbsp;    | rocketDAONodeTrustedSettingsProposals | [0xe4c3ec6a20be31296032f968ceadee9e9aa76535](https://holesky.etherscan.io/address/0xe4c3ec6a20be31296032f968ceadee9e9aa76535) |
 | &nbsp;    | rocketDAONodeTrustedSettingsRewards   | [0x2fb42ffe2d7df8381853e96304300c6a5e846905](https://holesky.etherscan.io/address/0x2fb42ffe2d7df8381853e96304300c6a5e846905) |
 | &nbsp;    | rocketDAONodeTrustedUpgrade           | [0x4640b8610f3efdeb8d44834adb3228d0e79eaa09](https://holesky.etherscan.io/address/0x4640b8610f3efdeb8d44834adb3228d0e79eaa09) |
-| &nbsp;    | rocketDAOProposal                     | [0xeffb0c7350f1293a997112b3c2594cdc34b36f18](https://holesky.etherscan.io/address/0xeffb0c7350f1293a997112b3c2594cdc34b36f18) |
+| &nbsp;    | rocketDAOProposal                     | [0xeb4377AA1333e6331c5F3428Bdd737DF1640790C](https://holesky.etherscan.io/address/0xeb4377AA1333e6331c5F3428Bdd737DF1640790C) |
 | &nbsp;    | rocketDAOProtocol                     | [0xbd1e62aebfa1e60797484916685e2b9e62adbf7b](https://holesky.etherscan.io/address/0xbd1e62aebfa1e60797484916685e2b9e62adbf7b) |
 | &nbsp;    | rocketDAOProtocolActions              | [0x1aa4544ce0fd51596b6d51d0f55a40e409b8bad4](https://holesky.etherscan.io/address/0x1aa4544ce0fd51596b6d51d0f55a40e409b8bad4) |
 | &nbsp;    | rocketDAOProtocolProposals            | [0x762e79b27fee0c0975f9cabea9e9976006a7ad98](https://holesky.etherscan.io/address/0x762e79b27fee0c0975f9cabea9e9976006a7ad98) |
-| &nbsp;    | rocketDAOProtocolSettingsAuction      | [0xd9d9202661de12aaaa478a704ea319b3f24ae711](https://holesky.etherscan.io/address/0xd9d9202661de12aaaa478a704ea319b3f24ae711) |
+| &nbsp;    | RocketDAOProtocolProposal             | [0x971D901776bBA081493A8584183754C8E09B534C](https://holesky.etherscan.io/address/0x971D901776bBA081493A8584183754C8E09B534C) |
+| &nbsp;    | rocketDAOProtocolSettingsAuction      | [0x387CCc7b41B0aAc2C7611131543c79DE9d0d1C63](https://holesky.etherscan.io/address/0x387CCc7b41B0aAc2C7611131543c79DE9d0d1C63) |
 | &nbsp;    | rocketDAOProtocolSettingsDeposit      | [0x47b600d9127a473e45b693a7badd9f4d929d5b76](https://holesky.etherscan.io/address/0x47b600d9127a473e45b693a7badd9f4d929d5b76) |
 | &nbsp;    | rocketDAOProtocolSettingsInflation    | [0x0b615FfC5e169d4516277F1F0F94F92AEd7D4b8a](https://holesky.etherscan.io/address/0x0b615FfC5e169d4516277F1F0F94F92AEd7D4b8a) |
 | &nbsp;    | rocketDAOProtocolSettingsMinipool     | [0x12b8E08383aA5C990dF73efC115C93F37975a60a](https://holesky.etherscan.io/address/0x12b8E08383aA5C990dF73efC115C93F37975a60a) |
@@ -210,9 +202,9 @@ See [All Active Deployed Protocol Contracts](#all-active-deployed-protocol-contr
 | &nbsp;    | rocketMerkleDistributorMainnet        | [0x7158DBa76E651b1EB17931533812fc8c528f3D9B](https://holesky.etherscan.io/address/0x7158DBa76E651b1EB17931533812fc8c528f3D9B) |
 | &nbsp;    | rocketMinipoolBase                    | [0xac2245be4c2c1e9752499bcd34861b761d62fc27](https://holesky.etherscan.io/address/0xac2245be4c2c1e9752499bcd34861b761d62fc27) |
 | &nbsp;    | rocketMinipoolBondReducer             | [0x6d010c43d4e96d74c422f2e27370af48711b49bf](https://holesky.etherscan.io/address/0x6d010c43d4e96d74c422f2e27370af48711b49bf) |
-| &nbsp;    | rocketMinipoolDelegate                | [0xddb6e648d6cbeab31a34a21ca5229db3ff16c9b6](https://holesky.etherscan.io/address/0xddb6e648d6cbeab31a34a21ca5229db3ff16c9b6) |
+| &nbsp;    | rocketMinipoolDelegate                | [0x830111EA19Af1401FBB02Af910C4c6D49a87911B](https://holesky.etherscan.io/address/0x830111EA19Af1401FBB02Af910C4c6D49a87911B) |
 | &nbsp;    | rocketMinipoolFactory                 | [0xdd3f50f8a6cafbe9b31a427582963f465e745af8](https://holesky.etherscan.io/address/0xdd3f50f8a6cafbe9b31a427582963f465e745af8) |
-| &nbsp;    | rocketMinipoolManager                 | [0x4b38d3BE036c6c21662C81b771F9FA18fFd30d9f](https://holesky.etherscan.io/address/0x4b38d3BE036c6c21662C81b771F9FA18fFd30d9f) |
+| &nbsp;    | rocketMinipoolManager                 | [0x04b87C2C9F64CA304B9479279cd8e3051f8cAF1E](https://holesky.etherscan.io/address/0x04b87C2C9F64CA304B9479279cd8e3051f8cAF1E) |
 | &nbsp;    | rocketMinipoolPenalty                 | [0x54705f80d7c51fcffd9c659ce3f3c9a7dccf5788](https://holesky.etherscan.io/address/0x54705f80d7c51fcffd9c659ce3f3c9a7dccf5788) |
 | &nbsp;    | rocketMinipoolQueue                   | [0x4220eecd69b2e1e70a7001637cc3d839ee2e97f5](https://holesky.etherscan.io/address/0x4220eecd69b2e1e70a7001637cc3d839ee2e97f5) |
 | &nbsp;    | rocketMinipoolStatus                  | [0x0000000000000000000000000000000000000000](https://holesky.etherscan.io/address/0x0000000000000000000000000000000000000000) |
@@ -220,11 +212,11 @@ See [All Active Deployed Protocol Contracts](#all-active-deployed-protocol-contr
 | &nbsp;    | rocketNetworkFees                     | [0x2cac916b2a963bf162f076c0a8a4a8200bcfbfb4](https://holesky.etherscan.io/address/0x2cac916b2a963bf162f076c0a8a4a8200bcfbfb4) |
 | &nbsp;    | rocketNetworkPenalties                | [0xcc82c913b9f3a207b332d216b101970e39e59db3](https://holesky.etherscan.io/address/0xcc82c913b9f3a207b332d216b101970e39e59db3) |
 | &nbsp;    | rocketNetworkPrices                   | [0x5EC7281249f6F18120361c564767a0b4D191Fd7C](https://holesky.etherscan.io/address/0x5EC7281249f6F18120361c564767a0b4D191Fd7C) |
-| &nbsp;    | rocketNodeDeposit                     | [0x0B6F5b3c894872AA168FdB9bbF3942BE9d0cE3D0](https://holesky.etherscan.io/address/0x0B6F5b3c894872AA168FdB9bbF3942BE9d0cE3D0) |
+| &nbsp;    | rocketNodeDeposit                     | [0x307eb333e754995f23bf13F27169Acd97dE743B5](https://holesky.etherscan.io/address/0x307eb333e754995f23bf13F27169Acd97dE743B5) |
 | &nbsp;    | rocketNodeDistributorDelegate         | [0x9e966733e3e9bfa56af95f762921859417cf6faa](https://holesky.etherscan.io/address/0x9e966733e3e9bfa56af95f762921859417cf6faa) |
 | &nbsp;    | rocketNodeDistributorFactory          | [0x42d4e4b59220da435a0bd6b5892b90ff50e1d8d4](https://holesky.etherscan.io/address/0x42d4e4b59220da435a0bd6b5892b90ff50e1d8d4) |
 | &nbsp;    | rocketNodeManager                     | [0xFfd183D60766FaF57097733408c8014169CeDCE0](https://holesky.etherscan.io/address/0xFfd183D60766FaF57097733408c8014169CeDCE0) |
-| &nbsp;    | rocketNodeStaking                     | [0xA93a5d41a2c45A19259bac0094589c04Df751Edb](https://holesky.etherscan.io/address/0xA93a5d41a2c45A19259bac0094589c04Df751Edb) |
+| &nbsp;    | rocketNodeStaking                     | [0x2C905c262cE02f582276fa1717ecc6611E82A952](https://holesky.etherscan.io/address/0x2C905c262cE02f582276fa1717ecc6611E82A952) |
 | &nbsp;    | rocketRewardsPool                     | [0x9D210F9169bc6Cf49152F21A57A446bCcaA87b33](https://holesky.etherscan.io/address/0x9D210F9169bc6Cf49152F21A57A446bCcaA87b33) |
 | &nbsp;    | rocketSmoothingPool                   | [0xa347c391bc8f740caba37672157c8aacd08ac567](https://holesky.etherscan.io/address/0xa347c391bc8f740caba37672157c8aacd08ac567) |
 | &nbsp;    | rocketStorage                         | [0x594fb75d3dc2dfa0150ad03f99f97817747dd4e1](https://holesky.etherscan.io/address/0x594fb75d3dc2dfa0150ad03f99f97817747dd4e1) |
@@ -232,69 +224,20 @@ See [All Active Deployed Protocol Contracts](#all-active-deployed-protocol-contr
 | &nbsp;    | rocketTokenRPL                        | [0x1cc9cf5586522c6f483e84a19c3c2b0b6d027bf0](https://holesky.etherscan.io/address/0x1cc9cf5586522c6f483e84a19c3c2b0b6d027bf0) |
 | &nbsp;    | rocketUpgradeOneDotThree              | [0xa38f23783358e6Ce576441525bE0Ad6Dab5B0eF4](https://holesky.etherscan.io/address/0xa38f23783358e6Ce576441525bE0Ad6Dab5B0eF4) |
 | &nbsp;    | RocketUpgradeOneDotThreeHotfix        | [0xe068629fe7bf0242387f238Ab1AD66D6C3277f6F](https://holesky.etherscan.io/address/0xe068629fe7bf0242387f238Ab1AD66D6C3277f6F) |
+| &nbsp;    | RocketUpgradeOneDotThreeDotOne        | [0xC5bc3adEB85657EB82FB692Ef814760799d9Ab0A](https://holesky.etherscan.io/address/0xC5bc3adEB85657EB82FB692Ef814760799d9Ab0A)         |
 | &nbsp;    | rocketVault                           | [0x67cde7af920682a29fcfea1a179ef0f30f48df3e](https://holesky.etherscan.io/address/0x67cde7af920682a29fcfea1a179ef0f30f48df3e) |
 | &nbsp;    | rocketNetworkSnapshots                | [0xBE680b191F35AC8FD3147b8DE219FB2D8635b716](https://holesky.etherscan.io/address/0xBE680b191F35AC8FD3147b8DE219FB2D8635b716) |
-| &nbsp;    | rocketNetworkVoting                   | [0x270d554bba63De8ea4C3212514aC53C5487bCD69](https://holesky.etherscan.io/address/0x270d554bba63De8ea4C3212514aC53C5487bCD69) |
-| &nbsp;    | rocketDAOProtocolSettingsProposals    | [0x0834446b4208fa226D95112D56dDf83Ab793BBF7](https://holesky.etherscan.io/address/0x0834446b4208fa226D95112D56dDf83Ab793BBF7) |
-| &nbsp;    | rocketDAOProtocolVerifier             | [0xE883Aa5C7CB0FE8D55EBB246B3EB22Ca8D49D191](https://holesky.etherscan.io/address/0xE883Aa5C7CB0FE8D55EBB246B3EB22Ca8D49D191) |
+| &nbsp;    | rocketNetworkVoting                   | [0x325e4624D606Bd40a1Cf74831cE9724B0Ed68138](https://holesky.etherscan.io/address/0x325e4624D606Bd40a1Cf74831cE9724B0Ed68138) |
+| &nbsp;    | rocketDAOProtocolSettingsProposals    | [0xd087282cD1EE469d7E6184570b5f3419dF39DB00](https://holesky.etherscan.io/address/0xd087282cD1EE469d7E6184570b5f3419dF39DB00) |
+| &nbsp;    | rocketDAOProtocolVerifier             | [0x4e9f08969cfcA212f4Ea10500c57891338dFec69](https://holesky.etherscan.io/address/0x4e9f08969cfcA212f4Ea10500c57891338dFec69) |
 | &nbsp;    | rocketDAOSecurity                     | [0x611593515d456c1C2e2455883DdbC1687130F5C9](https://holesky.etherscan.io/address/0x611593515d456c1C2e2455883DdbC1687130F5C9) |
 | &nbsp;    | rocketDAOSecurityActions              | [0x9171b230020d11A8798E30e905A1bDFf6006EcCa](https://holesky.etherscan.io/address/0x9171b230020d11A8798E30e905A1bDFf6006EcCa) |
 | &nbsp;    | rocketDAOSecurityProposals            | [0x21Cf501e760226070385fd43206A26908aee5Dd6](https://holesky.etherscan.io/address/0x21Cf501e760226070385fd43206A26908aee5Dd6) |
 | &nbsp;    | rocketDAOProtocolSettingsSecurity     | [0xc6d2625fd792821778213D181C68930aAAe28777](https://holesky.etherscan.io/address/0xc6d2625fd792821778213D181C68930aAAe28777) |
 | &nbsp;    | rocketDAOProtocolProposal             | [0x35D41dc9dcC0Ace45CAD571A8B451Bf2dE5DbAa8](https://holesky.etherscan.io/address/0x35D41dc9dcC0Ace45CAD571A8B451Bf2dE5DbAa8) |
-| Goerli    | addressQueueStorage                   | [0xF7d23f90c96D998e3E809acD923F856B5b337879](https://goerli.etherscan.io/address/0xF7d23f90c96D998e3E809acD923F856B5b337879)  |
-| &nbsp;    | addressSetStorage                     | [0x102A9E8a1ca531468378e03eEF9D7773F4630Df3](https://goerli.etherscan.io/address/0x102A9E8a1ca531468378e03eEF9D7773F4630Df3)  |
-| &nbsp;    | rocketAuctionManager                  | [0x46CB66F1f680B4bb0c94404baB387769E96B240f](https://goerli.etherscan.io/address/0x46CB66F1f680B4bb0c94404baB387769E96B240f)  |
-| &nbsp;    | rocketClaimDAO                        | [0x4a625C617a44E60F74E3fe3bf6d6333b63766e91](https://goerli.etherscan.io/address/0x4a625C617a44E60F74E3fe3bf6d6333b63766e91)  |
-| &nbsp;    | rocketDAONodeTrusted                  | [0x8486d86481CCda0Bc3A148361Fd1E1582b0c30c7](https://goerli.etherscan.io/address/0x8486d86481CCda0Bc3A148361Fd1E1582b0c30c7)  |
-| &nbsp;    | rocketDAONodeTrustedActions           | [0x029d946F28F93399a5b0D09c879FC8c94E596AEb](https://goerli.etherscan.io/address/0x029d946F28F93399a5b0D09c879FC8c94E596AEb)  |
-| &nbsp;    | rocketDAONodeTrustedProposals         | [0xda28CAc28D61d337073A5C1B12cF2e159Cf0aeDc](https://goerli.etherscan.io/address/0xda28CAc28D61d337073A5C1B12cF2e159Cf0aeDc)  |
-| &nbsp;    | rocketDAONodeTrustedSettingsMembers   | [0x401e2207c117bCed8a47864ac3e45335eDA23dA3](https://goerli.etherscan.io/address/0x401e2207c117bCed8a47864ac3e45335eDA23dA3)  |
-| &nbsp;    | rocketDAONodeTrustedSettingsMinipool  | [0xC0e092d042cB205164C10C182Ba91309cCd4db02](https://goerli.etherscan.io/address/0xC0e092d042cB205164C10C182Ba91309cCd4db02)  |
-| &nbsp;    | rocketDAONodeTrustedSettingsProposals | [0x4D65276777a25300A7e533a635B6dc3ece9553FB](https://goerli.etherscan.io/address/0x4D65276777a25300A7e533a635B6dc3ece9553FB)  |
-| &nbsp;    | rocketDAONodeTrustedSettingsRewards   | [0x7322c24752f79c05FFD1E2a6FCB97020C1C264F1](https://goerli.etherscan.io/address/0x7322c24752f79c05FFD1E2a6FCB97020C1C264F1)  |
-| &nbsp;    | rocketDAONodeTrustedUpgrade           | [0xE2247Aa78ce01b3fD43B0a1fd2cf37E7162192Fd](https://goerli.etherscan.io/address/0xE2247Aa78ce01b3fD43B0a1fd2cf37E7162192Fd)  |
-| &nbsp;    | rocketDAOProposal                     | [0x9c14ef142fE1D5Ae01FF5d69309b736cF397BE04](https://goerli.etherscan.io/address/0x9c14ef142fE1D5Ae01FF5d69309b736cF397BE04)  |
-| &nbsp;    | rocketDAOProtocol                     | [0x9C8484cbADa71318FEeBd74Cc68DC10DF7594e04](https://goerli.etherscan.io/address/0x9C8484cbADa71318FEeBd74Cc68DC10DF7594e04)  |
-| &nbsp;    | rocketDAOProtocolActions              | [0x865738b84455167c18Cb68854B38ECC93272ca6E](https://goerli.etherscan.io/address/0x865738b84455167c18Cb68854B38ECC93272ca6E)  |
-| &nbsp;    | rocketDAOProtocolProposals            | [0x01f5C4Dc5709824525102f708AafE7c6C4C3c39c](https://goerli.etherscan.io/address/0x01f5C4Dc5709824525102f708AafE7c6C4C3c39c)  |
-| &nbsp;    | rocketDAOProtocolSettingsAuction      | [0x6C96D0e5267E756c4DF28DD75f227200F6720A34](https://goerli.etherscan.io/address/0x6C96D0e5267E756c4DF28DD75f227200F6720A34)  |
-| &nbsp;    | rocketDAOProtocolSettingsDeposit      | [0xcB48514A11c642d34677C6dD1F9CF12bf5aeDcb5](https://goerli.etherscan.io/address/0xcB48514A11c642d34677C6dD1F9CF12bf5aeDcb5)  |
-| &nbsp;    | rocketDAOProtocolSettingsInflation    | [0x44c33430b6a46dc176F6CFa3B25B9d852aF4C626](https://goerli.etherscan.io/address/0x44c33430b6a46dc176F6CFa3B25B9d852aF4C626)  |
-| &nbsp;    | rocketDAOProtocolSettingsMinipool     | [0xb3fa2e86064A89ABDb011C3c81C574f78059549a](https://goerli.etherscan.io/address/0xb3fa2e86064A89ABDb011C3c81C574f78059549a)  |
-| &nbsp;    | rocketDAOProtocolSettingsNetwork      | [0x320f3aAB9405e38b955178BBe75c477dECBA0C27](https://goerli.etherscan.io/address/0x320f3aAB9405e38b955178BBe75c477dECBA0C27)  |
-| &nbsp;    | rocketDAOProtocolSettingsNode         | [0x5D762bE86F582cfDe63359b2978E79f60223f504](https://goerli.etherscan.io/address/0x5D762bE86F582cfDe63359b2978E79f60223f504)  |
-| &nbsp;    | rocketDAOProtocolSettingsRewards      | [0x0CB29674078F0Ad3dD23f8DD29c5481EE011e1D9](https://goerli.etherscan.io/address/0x0CB29674078F0Ad3dD23f8DD29c5481EE011e1D9)  |
-| &nbsp;    | rocketDepositPool                     | [0xa9A6A14A3643690D0286574976F45abBDAD8f505](https://goerli.etherscan.io/address/0xa9A6A14A3643690D0286574976F45abBDAD8f505)  |
-| &nbsp;    | rocketMerkleDistributorMainnet        | [0x7EcCBbd05830EdF593d30005B8F69E965AF4D59f](https://goerli.etherscan.io/address/0x7EcCBbd05830EdF593d30005B8F69E965AF4D59f)  |
-| &nbsp;    | rocketMinipoolBase                    | [0xcbD9243c9e284DFd65928617c821F411741AdE12](https://goerli.etherscan.io/address/0xcbD9243c9e284DFd65928617c821F411741AdE12)  |
-| &nbsp;    | rocketMinipoolBondReducer             | [0x68802A05C4a0AFB0EB943271Bb984cdD6257f7ad](https://goerli.etherscan.io/address/0x68802A05C4a0AFB0EB943271Bb984cdD6257f7ad)  |
-| &nbsp;    | rocketMinipoolDelegate                | [0xba6A1F8E1af8B3Ee43bb8d4e10DC1F6e2970613d](https://goerli.etherscan.io/address/0xba6A1F8E1af8B3Ee43bb8d4e10DC1F6e2970613d)  |
-| &nbsp;    | rocketMinipoolFactory                 | [0x02D96593696BB46F3Cb042A767C07B213bDF7eF5](https://goerli.etherscan.io/address/0x02D96593696BB46F3Cb042A767C07B213bDF7eF5)  |
-| &nbsp;    | rocketMinipoolManager                 | [0xbA3baaC020F05c074bd29e9a69aE2EA2E73787b0](https://goerli.etherscan.io/address/0xbA3baaC020F05c074bd29e9a69aE2EA2E73787b0)  |
-| &nbsp;    | rocketMinipoolPenalty                 | [0x0f666CfA664547DC03043829130293F422c1682D](https://goerli.etherscan.io/address/0x0f666CfA664547DC03043829130293F422c1682D)  |
-| &nbsp;    | rocketMinipoolQueue                   | [0xCDe694Cf7b13BA65bA664d63ED674e740c8323f3](https://goerli.etherscan.io/address/0xCDe694Cf7b13BA65bA664d63ED674e740c8323f3)  |
-| &nbsp;    | rocketMinipoolStatus                  | [0x024B38eC4173FFd485876F11dF408310120Cab69](https://goerli.etherscan.io/address/0x024B38eC4173FFd485876F11dF408310120Cab69)  |
-| &nbsp;    | rocketNetworkBalances                 | [0xF8Ae16d9F6C0f5545911E19C4C1A5593Bb87340E](https://goerli.etherscan.io/address/0xF8Ae16d9F6C0f5545911E19C4C1A5593Bb87340E)  |
-| &nbsp;    | rocketNetworkFees                     | [0x3091787188e3eB8e379dE5f5395bC955393233A1](https://goerli.etherscan.io/address/0x3091787188e3eB8e379dE5f5395bC955393233A1)  |
-| &nbsp;    | rocketNetworkPenalties                | [0x9294Fc6F03c64Cc217f5BE8697EA3Ed2De77e2F8](https://goerli.etherscan.io/address/0x9294Fc6F03c64Cc217f5BE8697EA3Ed2De77e2F8)  |
-| &nbsp;    | rocketNetworkPrices                   | [0x003C2133a9cfe824d94Cc30705A20aDCb4583Ed8](https://goerli.etherscan.io/address/0x003C2133a9cfe824d94Cc30705A20aDCb4583Ed8)  |
-| &nbsp;    | rocketNodeDeposit                     | [0x1473a10Fc1af0C0ceD52180aC80B26ee83c79cE4](https://goerli.etherscan.io/address/0x1473a10Fc1af0C0ceD52180aC80B26ee83c79cE4)  |
-| &nbsp;    | rocketNodeDistributorDelegate         | [0xB72d0388b8a4b87095D234Aa982071F39f2Aa852](https://goerli.etherscan.io/address/0xB72d0388b8a4b87095D234Aa982071F39f2Aa852)  |
-| &nbsp;    | rocketNodeDistributorFactory          | [0xe228017f77B3E0785e794e4c0a8A6b935bB4037C](https://goerli.etherscan.io/address/0xe228017f77B3E0785e794e4c0a8A6b935bB4037C)  |
-| &nbsp;    | rocketNodeManager                     | [0x0493A9c109Abac41e8Cb89D818B6825DA51a1274](https://goerli.etherscan.io/address/0x0493A9c109Abac41e8Cb89D818B6825DA51a1274)  |
-| &nbsp;    | rocketNodeStaking                     | [0x8D89A4F721BfBD363Eed4d42A607069d6C2023D1](https://goerli.etherscan.io/address/0x8D89A4F721BfBD363Eed4d42A607069d6C2023D1)  |
-| &nbsp;    | rocketRewardsPool                     | [0x3d8acD619fF0Eb890FbA744B20288a99452dd4B8](https://goerli.etherscan.io/address/0x3d8acD619fF0Eb890FbA744B20288a99452dd4B8)  |
-| &nbsp;    | rocketSmoothingPool                   | [0xd4E96eF8eee8678dBFf4d535E033Ed1a4F7605b7](https://goerli.etherscan.io/address/0xd4E96eF8eee8678dBFf4d535E033Ed1a4F7605b7)  |
-| &nbsp;    | rocketStorage                         | [0xd8Cd47263414aFEca62d6e2a3917d6600abDceB3](https://goerli.etherscan.io/address/0xd8Cd47263414aFEca62d6e2a3917d6600abDceB3)  |
-| &nbsp;    | rocketTokenRETH                       | [0x178E141a0E3b34152f73Ff610437A7bf9B83267A](https://goerli.etherscan.io/address/0x178E141a0E3b34152f73Ff610437A7bf9B83267A)  |
-| &nbsp;    | rocketTokenRPL                        | [0x5e932688E81a182e3dE211dB6544F98b8e4f89C7](https://goerli.etherscan.io/address/0x5e932688E81a182e3dE211dB6544F98b8e4f89C7)  |
-| &nbsp;    | rocketUpgradeOneDotOne                | [0xC680a22b4F03977f69b51A09f3Dbe922eb77C8FE](https://goerli.etherscan.io/address/0xC680a22b4F03977f69b51A09f3Dbe922eb77C8FE)  |
-| &nbsp;    | rocketUpgradeOneDotTwo                | [0xdBe62d3d56BE50eCf5D022178C5C6b2D9805E1aF](https://goerli.etherscan.io/address/0xdBe62d3d56BE50eCf5D022178C5C6b2D9805E1aF)  |
-| &nbsp;    | rocketVault                           | [0xD2B9d26f5f17856658f87600409e7F59FE0bcc00](https://goerli.etherscan.io/address/0xD2B9d26f5f17856658f87600409e7F59FE0bcc00)  |
 
 <small>\* Testnet</small>
 
-This list was updated 6/18/2024
+This list was updated 10/8/2024
 
 The addresses can be queried on chain as shown in this [example](https://docs.rocketpool.net/developers/usage/contracts/contracts.html#interacting-with-rocket-pool).
